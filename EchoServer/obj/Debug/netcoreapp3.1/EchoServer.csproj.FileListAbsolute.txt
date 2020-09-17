@@ -1,0 +1,17 @@
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoClient.exe
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoClient.dll
+D:\C#\DNP\Session3\JSON_intro\EchoServer\bin\Debug\netcoreapp3.1\EchoClient.pdb
+D:\C#\DNP\Session3\JSON_intro\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CopyComplete
